@@ -5,3 +5,4 @@
 3. The website was https://www.data.sports.tw, but it's not available now.
 4. These datasets are collected since this service is available.
 5. These datasets are archived, but they're open access now.
+6. This plan was the Ministry of Digital Affairs in Taiwan under the grants ADI-113121403.
